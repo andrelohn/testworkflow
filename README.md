@@ -1,2 +1,8 @@
 # testworkflow
- a reproducible bioimage analysis workflow
+
+##requirements
+
+software package: Fiji (ImageJ)
+workflow language: ImageJ macro 
+
+
